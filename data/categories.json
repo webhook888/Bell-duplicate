@@ -1,0 +1,59 @@
+[
+  {
+    "id": "cat-shower-doors",
+    "name": "Shower Doors",
+    "slug": "shower-doors",
+    "comingSoon": false,
+    "icon": "slidingDoor"
+  },
+  {
+    "id": "cat-doors-bifold",
+    "name": "Doors Bifold",
+    "slug": "doors-bifold",
+    "comingSoon": false,
+    "icon": "bifold"
+  },
+  {
+    "id": "cat-commercial",
+    "name": "Commercial",
+    "slug": "commercial",
+    "comingSoon": false,
+    "icon": "casement"
+  },
+  {
+    "id": "cat-glass-railing",
+    "name": "Glass Railing",
+    "slug": "glass-railing",
+    "comingSoon": false,
+    "icon": "tiltTurn"
+  },
+  {
+    "id": "cat-cable-system",
+    "name": "Cable System",
+    "slug": "cable-system",
+    "comingSoon": false,
+    "icon": "tiltTurn"
+  },
+  {
+    "id": "cat-window-and-doors",
+    "name": "Window and Doors",
+    "slug": "window-and-doors",
+    "comingSoon": false,
+    "icon": "slidingWindow"
+  },
+  {
+    "id": "cat-switchtable-glass",
+    "name": "Switchtable Glass",
+    "slug": "switchtable-glass",
+    "comingSoon": false,
+    "icon": "casement"
+  },
+  {
+    "id": "cat-custom-glass",
+    "name": "Custom Glass",
+    "slug": "custom-glass",
+    "comingSoon": false,
+    "icon": "casement"
+  }
+]
+ 
